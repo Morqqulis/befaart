@@ -1,3 +1,3 @@
-# Befaart Langing page
+# BefaArt Langing page
 
 https://morqqulis.github.io/befaart/
